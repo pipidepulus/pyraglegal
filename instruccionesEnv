@@ -1,2 +1,4 @@
 python3 -m venv raglegal
 source raglegal/bin/activate
+
+streamlit run main.py
